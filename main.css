@@ -1,0 +1,23 @@
+#auth-form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    justify-content: space-between;
+}
+
+#auth-form input{
+    margin: 10px;
+}
+
+#login{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+    height: max-content;
+    align-items: center;
+}
+
+#login button{
+    height: max-content;
+}
